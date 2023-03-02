@@ -1,0 +1,9 @@
+.ticket-connect-logo {
+    height: 50px !important;
+}
+
+.shadow {
+    -webkit-filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.7));
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.7));
+    /* Similar syntax to box-shadow */
+}

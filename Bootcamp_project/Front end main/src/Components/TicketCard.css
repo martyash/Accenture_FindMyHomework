@@ -1,0 +1,15 @@
+.ticket-card:hover {
+    scale: 1.02;
+}
+
+.ticket-card {
+    transition: 0.3s !important;
+}
+
+.similarity-on-pop-up-ticket {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 100px;
+    text-align: right;
+}
